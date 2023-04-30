@@ -5,9 +5,9 @@ Inspiration from => https://dribbble.com/shots/20003928-Financilux-Web-Site-Desi
 
 wesbite link => http://financilux.infinityfreeapp.com/
 
-![image](https://user-images.githubusercontent.com/58290134/235370292-e3b0be1b-b576-44e0-9da9-a3fc98b77cbc.png)
+![image](https://user-images.githubusercontent.com/58290134/235370443-64e59e43-ea02-4a5d-a9c6-478ab19f990e.png)
 
 
-![image](https://user-images.githubusercontent.com/58290134/235370327-d4e0fd8e-71d3-41b2-ac31-733cec0c135f.png)
+![image](https://user-images.githubusercontent.com/58290134/235370462-72475942-ad1e-415a-b78c-ba9066d323dc.png)
 
 
